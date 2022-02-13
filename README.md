@@ -1,5 +1,4 @@
-# Django-projects
-Create Django application and deployed it on Heroku. Application contains Blogs creation and multiple Python Projects.
+# My Github.io 
 
-### Heroku Link
-[http://anadjangoapp.herokuapp.com/](http://anadjangoapp.herokuapp.com/)
+### Website Link
+[anajikadam.github.io](https://anajikadam.github.io/)
