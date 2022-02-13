@@ -1,1 +1,0 @@
-# https://anajikadam.github.io
