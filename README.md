@@ -49,7 +49,7 @@ My hands-on experience extends to using Data Science Libraries in Python for dat
 
 ## **Portfolio Projects**
 
-[**Portfolio Projects**](https://anajikadam.github.io/portfolio/)
+[**Portfolio Projects**](https://anajikadam.github.io/portfolio/){:target="_blank"}
 
 * **
 
