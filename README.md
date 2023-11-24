@@ -54,18 +54,18 @@ My hands-on experience extends to using Data Science Libraries in Python for dat
 * **
 
 ## **Education**
-- Bachelor of Engineering: Computer Engineering (CGPA: 7.61) | Mumbai University | JULY 2015 - MAY 2019
+- Bachelor of Engineering: Computer Engineering | Mumbai University | JULY 2015 - MAY 2019
 
 - Master Program: Data Science | GreyAtom School Of Data Science, Mumbai | AUGUST 2019 - JUNE 2020 
 
 * **
 
 ## **Awards and Publications**
-- **Hackathon Winner at GreyAtom.** (01/2020)
+- **Hackathon Winner at GreyAtom**: (01/2020)
   ***Winner of a Machine learning And Natural Language Processing hackathon at GreyAtom.***
 
 
-- **Paper publication in IEEE Conference** (12/2018)
+- **Paper publication in IEEE Conference**: (12/2018)
   ***Paper publication in Journal of 2018 IEEE International Conference on Computational Intelligence and Computing Research.***
 
 * **
