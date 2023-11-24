@@ -13,7 +13,7 @@
 * **
 
 ## **Work Experience**
-[**Paramount Healthcare Management Pvt. LTD, Pune**](https://www.linkedin.com/company/culinda/) | ***Machine Learning Engineer*** | ***(JANUARY 2021 - Present)***
+[**Paramount Healthcare Management Pvt. LTD, Pune**](https://www.linkedin.com/company/paramount-healthcare-management-pvt.ltd/) | ***Machine Learning Engineer*** | ***(JANUARY 2021 - Present)***
 - Information Extraction from PDF Documents:
   ***Claim Automation service for Hospital provider, Create Health Smart report based on Lab Report.***
   - Techniques Used: OCR, PDF scraping, ML Model, ChatGPT API
