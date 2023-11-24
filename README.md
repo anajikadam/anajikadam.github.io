@@ -1,82 +1,69 @@
 # **Machine Learning Engineer**
 
-#### [LinkedIn](https://www.linkedin.com/) | [GitHub](https://github.com/anajikadam) | gmail.com | [***Download My Resume***](https://drive.google.com/)
+#### [LinkedIn](https://www.linkedin.com/) | [GitHub](https://github.com/anajikadam) | [anajikadam23@gmail.com](mailto:anajikadam23@gmail.com) | [***Online Resume***](https://drive.google.com/)
+
+* **
+
+## **Profile Summary**
+**Data Science certified professional with over 2+ years of rich and qualitative experience in developing and deploying ML models using Python programming. A dedicated ML Engineer with a passion for leveraging historical data to create positive and impactful products. Skilled in data analysis, model selection, and optimization techniques. Proficient in various ML frameworks and libraries such as TensorFlow, Keras, and Scikit-learn.
+Bringing expertise in Machine Learning, Deep Learning, and NLP technologies, I specialize in developing prototypes and analytical models to address challenges with clients through the application of new, innovative capabilities. I have successfully managed machine learning projects, collaborating with cross-functional teams to gather and analyze data, ensuring effective project outcomes.
+My hands-on experience extends to using Data Science Libraries in Python for data analysis and visualization, including NumPy, Pandas, SciPy, Scikit Learn, Matplotlib, Seaborn, NLTK, and Spacy. Currently, I am contributing my skills and knowledge as a Machine Learning Engineer in Pune.**
+
+* **
 
 ## **Skills**
-- **Programming Skills: Python, SQL, LaTex**
-- **Technical Skills:**
-    - ***TensorFlow, Keras, Scikit-Learn, Gensim, NLTK, Pytesseract, PyCaret, Pandas, NumPy, Matplotlib, Seaborn, Regex, SciPy, BeautifulSoup, Git, GitHub, Excel, PowerPoint***
-- **Familiar Tools:**
-    - ***XGBoost, LightGBM, Streamlit, Flask, FastAPI, Docker, OpenCV, Plotly, bokeh, Selenium***
+- **Programming Languages:**
+    - ***Python, R, SQL***
+- **Machine Learning Models:**
+    - ***Linear Regression, Logistic Regression, Random Forest, XGBoost, SVM, Naive Bayes***
+- **NLP Models:**
+    - ***TF-IDF, Word2vec, Doc2vec, HuggingFace model, BERT  sentence Transformers***
+- **Deep Learning Models:**
+    - ***RNN, LSTM, ANN, CNN, encoder-decoder***
+- **Database & Tools:**
+    - ***SQL, SQL Server***
+- **Libraries and Tools:**
+    - ***TensorFlow, Keras, Scikit-Learn, Gensim, NLTK, Pytesseract, PyCaret, Pandas, NumPy, Matplotlib, Seaborn, Regex, SciPy, OpenCV, BeautifulSoup, Git, GitHub, Excel, PowerPoint***
+- **Familiar Frameworks and Tools:**
+    - ***XGBoost, LightGBM, Streamlit, Flask, FastAPI, Docker, Plotly-Dash, bokeh, Selenium, Power BI, Tableau***
 
 * **
 
 ## **Work Experience**
-[**Culinda Inc.,**](https://www.linkedin.com/company/culinda/) | Data Science Intern [*Certificate*](https://drive.google.com/file/d/1lkHbWUoBcfODLShqTDxYzkQvCsg_myfo/view) | (Aug 2022 – Jan 2023)
-
-**Skills: Python, CyberSecurity, Statistics, Data Analysis, Machine Learning, IoT/IoMT**
-- Created a POC using Python on Cyber risk quantification using FAIR, STRIDE Model for quantifying
-cyber risk to IoMT/IoT devices.
-- Wrote Python scripts that analyzed Terabytes of data to generate (text & excel) reports that checked if the data flow in
-the pipeline is happening as expected. (Data Validator Tool)
-- Worked in Baselining for hospitals' network data to identify any malicious behavior.
-
-* **
-
-## **Projects**
-
-### **NLP Projects**
-- **Topic Modeling Using RACE Dataset** | [GitHub](https://github.com/avr2002/Topic-Modelling-Using-RACE-Dataset)
-  - **Technologies Used:**  Python, Regex, NLTK, Gensim, ScikitLearn, tSNE, pyLDAvis, bokeh, Git
-  - This **NLP Project** aims to use statistical models to reveal the abstract “topics” present in a large set of text documents, thus trying to classify documents based on different themes they convey.
-  - Three **Topic Modeling algorithms** were used namely, **Latent Semantic Analysis(LSA), Latent Dirichlet Allocation(LDA), and Non-Negative Matrix Factorization(NMF)**.
-  - **BERTopic** & **Top2Vec** were also explored which gave quite good results.
-
-
-- **Medical Embeddings and Clinical Trial Search Engine** | [Github](https://github.com/avr2002/Medical-Embeddings-and-Clinical-Trial-Search-Engine)
-  - **Technologies Used: Python, Gensim, Word2Vec, FastText, Streamlit, Git**
-  - The Project aims to train SkipGram and FastText Models on COVID-19 Clinical Trials Dataset and builds a Search Engine where user can type any COVID-19 related keyword and it presents all the top n similar results from the dataset
-
-* **
-
-### **Computer Vision Projects**
-- **Image Coloring using Autoencoders** | [Github](https://github.com/avr2002/Image-Coloring-using-Autoencoders)
-    - **Technologies Used: Python, TensorFlow, Keras, scikit-image, matplotlib, numpy**
-    -  I tried using Autoencoders and Transfer Learning for this one. I tried VGG16 and InceptionResNetV2 as an encoder/feature extractor layer and a custom decoder layer.
-
-
-- **Muti-class Image Classification Model** | [Github](https://github.com/avr2002/Image-Classification-CNN-Model-for-Real-Time-Prediction)
-    - **Technologies Used: Python, tensorflow, keras, matplotlib, flask, gunicorn, pathlib, numpy**
-    - The project aims to classify images into driving license, social security, and others category by using a CNN model architecture.
-    - An accuracy of 96% was achieved on test data of 150 images. Deployment was done using gunicorn and flask API.
+[**Paramount Healthcare Management Pvt. LTD, Pune**](https://www.linkedin.com/company/culinda/) | ***Machine Learning Engineer*** | ***(JANUARY 2021 - Present)***
+- Information Extraction from PDF Documents:
+  ***Claim Automation service for Hospital provider, Create Health Smart report based on Lab Report.***
+  - Techniques Used: OCR, PDF scraping, ML Model, ChatGPT API
+  - ML Model Used: SVM, Naive Bayes classifier, and CNN
+  - Libraries Used: PaddleOCR, pdfplumber, Scikit-learn, NLTK, FastAPI
+  - Responsibilities:
+    - For tagged PDF, used pdfplumber to extract important data
+    - For Scanned PDF, used PaddleOCR to ocr text from PDF pages
+    - Used Regular expressions and NLTK libraries for Text processing – Cleaning of the text.
+    - Used Machine Learning to categorize the PDF page text to 5 classes using SVM, Naive Bayes and CNN model used for classify 2 classes.
+    - In Claim Automation, Extract required Information like Invoice Rows, Diagnosis Details and Services Details from claims PDF. Create API service using FastAPI to get extracted information in JSON response. Also create a web application for Hospital Provider.
+    - And from Lab Report extract important test case details, save data in Database, based on information, create prompt for ChatGPT, using all the data and responses created Health Smart Report.
 
 
 * **
 
-### **Machine Learning & Python Projects** 
+## **Portfolio Projects**
 
-- **Business License Status Prediction** | [GitHub](https://github.com/avr2002/Business-License-Status-Prediction)
-  - **Technologies Used: Python, scikit-learn, h2o, tensorflow, flask, gunicorn**
-  - The project aims to predict if a customer's license should be issued, renewed, or cancelled depending on features in the dataset. The problem statement was presented at [ZS Data Science Challenge - 2019](https://www.interviewbit.com/contest/zs-yds-2019/).
-
-
-- **Medical Data Extraction Project** | [Github](https://github.com/avr2002/medical-data-extraction-project)
-  - **Technologies Used: Python, Regex, OpenCV, Pytesseract, FastAPI**
-  - Python backend was built using pytesseract, OpenCV, Regular expressions and FastAPI as a web serving framework
-  - Auto extracted important fields from patient details and medical prescriptions. Image processing was performed in OpenCV and then pytesseract was used for image to text conversion. The last step was to use Regular Expression (Regex) for extracting important fields from the text
-
-
-- **SQL Project: Provide Insights to Management in Consumer Goods Domain**
-    - [Project Github Link](https://github.com/avr2002/sql-project-consumer-goods-domain) & [Certificate of Participation](https://drive.google.com/file/d/1QdbMXJoyvD8SASKbZYQelT-uQamhiEQ4/view?usp=share_link)
-    
-
-- **Credit Card Default Prediction** | [Github](https://github.com/avr2002/credit-card-default-prediction)
-- **Regression Models for House Price Prediction** | [GitHub](https://github.com/avr2002/Regression-Models-for-House-Price-Prediction)
-- **Kaggle House Price Prediction** | [Link](https://www.kaggle.com/code/amitvikramraj/house-price-prediction-competition-project)
+[**Portfolio Projects**](https://anajikadam.github.io/portfolio/)
 
 * **
 
 ## **Education**
-- BS in Data Science & Application[(CGPA: 8.5 till Sem-5)](https://drive.google.com/file/d/1AEtZR7kj7uhw4p4Xq9BDKpFhwYRyrR4Q/view?usp=sharing) | [IIT Madras](https://study.iitm.ac.in/ds/) | 2021-2025(Expected)
+- Bachelor of Engineering: Computer Engineering (CGPA: 7.61) | Mumbai University | JULY 2015 - MAY 2019
 
-- 12th Std. CBSE Board(Percentage: 86.8%) | Star International School, Ranchi, JH | 2018-2020 
+- Master Program: Data Science | GreyAtom School Of Data Science, Mumbai | AUGUST 2019 - JUNE 2020 
+
+* **
+
+## **Awards and Publications**
+- **Hackathon Winner at GreyAtom.** (01/2020)
+  ***Winner of a Machine learning And Natural Language Processing hackathon at GreyAtom.***
+
+
+- **Paper publication in IEEE Conference** (12/2018)
+  ***Paper publication in Journal of 2018 IEEE International Conference on Computational Intelligence and Computing Research.***
