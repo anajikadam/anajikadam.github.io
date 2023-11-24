@@ -67,3 +67,12 @@ My hands-on experience extends to using Data Science Libraries in Python for dat
 
 - **Paper publication in IEEE Conference** (12/2018)
   ***Paper publication in Journal of 2018 IEEE International Conference on Computational Intelligence and Computing Research.***
+
+* **
+
+## **Languages**
+- ***English, Hindi, Marathi***
+
+* **
+
+* **
