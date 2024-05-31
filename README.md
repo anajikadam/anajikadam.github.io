@@ -1,15 +1,9 @@
 # **Machine Learning Engineer**
 
-[**View Portfolio Projects**](https://anajikadam.github.io/portfolio/)
+[**📌 Portfolio Projects**](https://anajikadam.github.io/portfolio/)
 
 * **
-## **Profile Summary**
-**Data Science certified professional with over 3+ years of rich and qualitative experience in developing and deploying ML models using Python programming. A dedicated ML Engineer with a passion for leveraging historical data to create positive and impactful products. Skilled in data analysis, model selection, and optimization techniques. Proficient in various ML frameworks and libraries such as TensorFlow, Keras, and Scikit-learn.**
-
-**Bringing expertise in Machine Learning, Deep Learning, and NLP technologies, I specialize in developing prototypes and analytical models to address challenges with clients through the application of new, innovative capabilities. I have successfully managed machine learning projects, collaborating with cross-functional teams to gather and analyze data, ensuring effective project outcomes.**
-
-**My hands-on experience extends to using Data Science Libraries in Python for data analysis and visualization, including NumPy, Pandas, SciPy, Scikit Learn, Matplotlib, Seaborn, NLTK, and Spacy. Currently, I am contributing my skills and knowledge as a Machine Learning Engineer in Pune.**
-
+**Data Science certified professional with over 3+ years of rich and qualitative experience in developing and deploying ML models using Python programming. Currently, I am contributing my skills and knowledge as a Machine Learning Engineer in Pune.**
 
 * **
 
@@ -65,6 +59,10 @@
 * **
 
 ## **Awards and Publications**
+- **Recognized as the 'Star of the Quarter'**: (10/2023)
+  ***For exceptional performance and contributions, showcasing excellence in Machine Learning and making significant contributions to Paramount Healthcare Management Pvt. Ltd***
+
+
 - **Hackathon Winner at GreyAtom**: (01/2020)
   ***Winner of a Machine learning And Natural Language Processing hackathon at GreyAtom.***
 
