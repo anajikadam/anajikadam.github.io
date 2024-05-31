@@ -4,33 +4,18 @@
 
 * **
 ## **Profile Summary**
-**Data Science certified professional with over 2+ years of rich and qualitative experience in developing and deploying ML models using Python programming. A dedicated ML Engineer with a passion for leveraging historical data to create positive and impactful products. Skilled in data analysis, model selection, and optimization techniques. Proficient in various ML frameworks and libraries such as TensorFlow, Keras, and Scikit-learn.**
+**Data Science certified professional with over 3+ years of rich and qualitative experience in developing and deploying ML models using Python programming. A dedicated ML Engineer with a passion for leveraging historical data to create positive and impactful products. Skilled in data analysis, model selection, and optimization techniques. Proficient in various ML frameworks and libraries such as TensorFlow, Keras, and Scikit-learn.**
 
 **Bringing expertise in Machine Learning, Deep Learning, and NLP technologies, I specialize in developing prototypes and analytical models to address challenges with clients through the application of new, innovative capabilities. I have successfully managed machine learning projects, collaborating with cross-functional teams to gather and analyze data, ensuring effective project outcomes.**
 
 **My hands-on experience extends to using Data Science Libraries in Python for data analysis and visualization, including NumPy, Pandas, SciPy, Scikit Learn, Matplotlib, Seaborn, NLTK, and Spacy. Currently, I am contributing my skills and knowledge as a Machine Learning Engineer in Pune.**
 
-* **
-
-## **About Me**
- 
-- 📖 **I'm interested in NLP & ML Engineering.**
- 
-<!-- - Besides my studies, I'm interested in learning about Life from a spiritual perspective. -->
-
-<!-- - 👀 𝐋𝐨𝐨𝐤𝐢𝐧𝐠 𝐟𝐨𝐫 𝐦𝐲 𝐟𝐢𝐫𝐬𝐭 𝐟𝐮𝐥𝐥-𝐭𝐢𝐦𝐞 𝐫𝐨𝐥𝐞 𝐚𝐬 𝐚 𝐌𝐚𝐜𝐡𝐢𝐧𝐞 𝐋𝐞𝐚𝐫𝐧𝐢𝐧𝐠 𝐄𝐧𝐠𝐢𝐧𝐞𝐞𝐫, 𝐩𝐫𝐞𝐟𝐞𝐫𝐚𝐛𝐥𝐲 𝐬𝐭𝐚𝐫𝐭𝐢𝐧𝐠 𝐰𝐢𝐭𝐡 𝐚𝐧 𝐢𝐧𝐭𝐞𝐫𝐧𝐬𝐡𝐢𝐩. -->
-  
-- 👉🏼 **Priority For Me:** I'm looking for a great work environment, especially a mentor under whom I can work and learn a lot of stuff, one who is willing to commit to me just as I will, and one who sees my potential.
-
-- ⭐ **Open to Remote Opportunities (both Internationally & within India)**
-
-- 😃 Contact me if you find me interesting. I'm active on [LinkedIn](https://in.linkedin.com/in/anaji-kadam-1944b2141/)⭐
 
 * **
 
 ## **Skills**
 - **Programming Languages:**
-    - ***Python, R, SQL***
+    - ***Python, R***
 - **Machine Learning Models:**
     - ***Linear Regression, Logistic Regression, Random Forest, XGBoost, SVM, Naive Bayes***
 - **NLP Models:**
@@ -87,11 +72,28 @@
 - **Paper publication in IEEE Conference**: (12/2018)
   ***Paper publication in Journal of 2018 IEEE International Conference on Computational Intelligence and Computing Research.***
 
+
 * **
 
 ## **Languages**
 - ***English, Hindi, Marathi***
 
+
 * **
 
+## **About Me**
+ 
+- 📖 **I'm interested in NLP & ML Engineering.**
+ 
+<!-- - Besides my studies, I'm interested in learning about Life from a spiritual perspective. -->
+
+<!-- - 👀 𝐋𝐨𝐨𝐤𝐢𝐧𝐠 𝐟𝐨𝐫 𝐦𝐲 𝐟𝐢𝐫𝐬𝐭 𝐟𝐮𝐥𝐥-𝐭𝐢𝐦𝐞 𝐫𝐨𝐥𝐞 𝐚𝐬 𝐚 𝐌𝐚𝐜𝐡𝐢𝐧𝐞 𝐋𝐞𝐚𝐫𝐧𝐢𝐧𝐠 𝐄𝐧𝐠𝐢𝐧𝐞𝐞𝐫, 𝐩𝐫𝐞𝐟𝐞𝐫𝐚𝐛𝐥𝐲 𝐬𝐭𝐚𝐫𝐭𝐢𝐧𝐠 𝐰𝐢𝐭𝐡 𝐚𝐧 𝐢𝐧𝐭𝐞𝐫𝐧𝐬𝐡𝐢𝐩. -->
+  
+- 👉🏼 **Priority For Me:** I'm looking for a great work environment, especially a mentor under whom I can work and learn a lot of stuff, one who is willing to commit to me just as I will, and one who sees my potential.
+
+<!-- - ⭐ **Open to Remote Opportunities (both Internationally & within India)** -->
+
+- 😃 Contact me if you find me interesting. I'm active on [LinkedIn](https://in.linkedin.com/in/anaji-kadam-1944b2141/)⭐
+
+* **
 * **
