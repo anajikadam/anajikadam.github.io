@@ -13,6 +13,24 @@
 
 * **
 
+## **Work Experience**
+[**Paramount Healthcare Management Pvt. LTD, Pune**](https://www.linkedin.com/company/paramount-healthcare-management-pvt.ltd/) | ***Machine Learning Engineer*** | ***(JANUARY 2021 - Present)***
+- Information Extraction from PDF Documents:
+  ***Claim Automation service for Hospital provider, Create Health Smart report based on Lab Report.***
+  - Techniques Used: OCR, PDF scraping, ML Model, ChatGPT API
+  - ML Model Used: SVM, Naive Bayes classifier, and CNN
+  - Libraries Used: PaddleOCR, pdfplumber, Scikit-learn, NLTK, FastAPI
+  - Responsibilities:
+    - For tagged PDF, used pdfplumber to extract important data
+    - For Scanned PDF, used PaddleOCR to ocr text from PDF pages
+    - Used Regular expressions and NLTK libraries for Text processing – Cleaning of the text.
+    - Used Machine Learning to categorize the PDF page text to 5 classes using SVM, Naive Bayes and CNN model used for classify 2 classes.
+    - In Claim Automation, Extract required Information like Invoice Rows, Diagnosis Details and Services Details from claims PDF. Create API service using FastAPI to get extracted information in JSON response. Also create a web application for Hospital Provider.
+    - And from Lab Report extract important test case details, save data in Database, based on information, create prompt for ChatGPT, using all the data and responses created Health Smart Report.
+
+
+* **
+
 ## **Skills**
 - **Programming Languages:**
     - ***Python, R***
@@ -32,28 +50,10 @@
 
 * **
 
-## **Work Experience**
-[**Paramount Healthcare Management Pvt. LTD, Pune**](https://www.linkedin.com/company/paramount-healthcare-management-pvt.ltd/) | ***Machine Learning Engineer*** | ***(JANUARY 2021 - Present)***
-- Information Extraction from PDF Documents:
-  ***Claim Automation service for Hospital provider, Create Health Smart report based on Lab Report.***
-  - Techniques Used: OCR, PDF scraping, ML Model, ChatGPT API
-  - ML Model Used: SVM, Naive Bayes classifier, and CNN
-  - Libraries Used: PaddleOCR, pdfplumber, Scikit-learn, NLTK, FastAPI
-  - Responsibilities:
-    - For tagged PDF, used pdfplumber to extract important data
-    - For Scanned PDF, used PaddleOCR to ocr text from PDF pages
-    - Used Regular expressions and NLTK libraries for Text processing – Cleaning of the text.
-    - Used Machine Learning to categorize the PDF page text to 5 classes using SVM, Naive Bayes and CNN model used for classify 2 classes.
-    - In Claim Automation, Extract required Information like Invoice Rows, Diagnosis Details and Services Details from claims PDF. Create API service using FastAPI to get extracted information in JSON response. Also create a web application for Hospital Provider.
-    - And from Lab Report extract important test case details, save data in Database, based on information, create prompt for ChatGPT, using all the data and responses created Health Smart Report.
-
-
-* **
-
 ## **Education**
-- Bachelor of Engineering: Computer Engineering | Mumbai University | JULY 2015 - MAY 2019
+- **Bachelor of Engineering: Computer Engineering** | Mumbai University | JULY 2015 - MAY 2019
 
-- Master Program: Data Science | GreyAtom School Of Data Science, Mumbai | AUGUST 2019 - JUNE 2020 
+- **Master Program: Data Science** | GreyAtom School Of Data Science, Mumbai | AUGUST 2019 - JUNE 2020 
 
 * **
 
