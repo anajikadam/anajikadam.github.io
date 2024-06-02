@@ -1,7 +1,7 @@
 # **Machine Learning Engineer**
 
-[**📌 Portfolio Projects**](https://anajikadam.github.io/portfolio/)
-
+<!-- [**📌 Portfolio Projects**](https://anajikadam.github.io/portfolio/) -->
+<a href="https://anajikadam.github.io/portfolio/" target="_blank">[**📌 Portfolio Projects**]</a> 
 
 * **
 **Data Science certified professional with over 3+ years of rich and qualitative experience in developing and deploying ML models using Python programming. Currently, I am contributing my skills and knowledge as a Machine Learning Engineer in Pune.**
@@ -10,7 +10,8 @@
 * **
 
 ## **Work Experience**
-**Machine Learning Engineer** | <br>[***Paramount Healthcare Management Pvt. LTD, Pune***](https://www.linkedin.com/company/paramount-healthcare-management-pvt.ltd/) |  | ***(JANUARY 2021 - Present)***
+**Machine Learning Engineer** | ***(JANUARY 2021 - Present)*** |<br>[***Paramount Healthcare Management Pvt. LTD, Pune***](https://www.linkedin.com/company/paramount-healthcare-management-pvt.ltd/) |
+
 
 - ***Information Extraction and Automate Claim Process***
   - Efficiently extract essential data from claim PDF files and transfer it to the TPA to initiate the claim process. 
