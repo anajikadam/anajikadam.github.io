@@ -1,4 +1,4 @@
-# **Machine Learning Engineer**
+# **Machine Learning Engineer** ⭐
 
 <!-- [**📌 Portfolio Projects**](https://anajikadam.github.io/portfolio/) -->
 <a href="https://anajikadam.github.io/portfolio/" target="_blank">📌 <b>Portfolio Projects</b></a> 
@@ -9,7 +9,7 @@
 
 * **
 
-## **Work Experience**
+## **Work Experience** 🧑🏽‍💻⭐
 **Machine Learning Engineer** | ***(JANUARY 2021 - Present)*** |<br>🏢[***Paramount Healthcare Management Pvt. LTD, Pune***](https://www.linkedin.com/company/paramount-healthcare-management-pvt.ltd/) 
 
 
@@ -33,7 +33,7 @@
 
 * **
 
-## **Skills**
+## **Skills**  ⚙️⭐
 - **Programming Languages:**
     - ***Python, R***
 - **Machine Learning Models:**
@@ -52,14 +52,14 @@
 
 * **
 
-## **Education**
+## **Education** 📖🎓
 - **Master Program: Data Science** | GreyAtom School Of Data Science, Mumbai | AUGUST 2019 - JUNE 2020 
 
 - **Bachelor of Engineering: Computer Engineering** | Mumbai University | JULY 2015 - MAY 2019
 
 * **
 
-## **Certifications**
+## **Certifications** 🎓🚀
 - **Learn LangChain: LLM Apps using OpenAi & Llama 2  -Udemy**: (02/2024)
   ***Build Real World LLM powered applications with LangChain, OpenAI, Llama2, Hugging Face. Create Web Apps with Streamlit.  | [GitHub Link](https://github.com/anajikadam/UdemyCourse_LLMs_LangChain)***
 
@@ -69,7 +69,7 @@
 
 * **
 
-## **Awards and Publications**
+## **Awards and Publications** 🎖️
 - **Recognized as the 'Star of the Quarter'**: (10/2023)
   ***For exceptional performance and contributions, showcasing excellence in Machine Learning and making significant contributions to Paramount Healthcare Management Pvt. Ltd***
 
@@ -84,13 +84,13 @@
 
 * **
 
-## **Languages**
+## **Languages** ⭐
 - ***English, Hindi, Marathi***
 
 
 * **
 
-## **About Me**
+## **About Me** ⭐
 
 **Data Science certified professional with over 2+ years of rich and qualitative experience in developing and deploying ML models using Python programming. A dedicated ML Engineer with a passion for leveraging historical data to create positive and impactful products. Skilled in data analysis, model selection, and optimization techniques. Proficient in various ML frameworks and libraries such as TensorFlow, Keras, and Scikit-learn.**
 
@@ -102,8 +102,6 @@
 - 📖 **I'm interested in ML Engineering & NLP**
  
 <!-- - Besides my studies, I'm interested in learning about Life from a spiritual perspective. -->
-
-<!-- - 👀 𝐋𝐨𝐨𝐤𝐢𝐧𝐠 𝐟𝐨𝐫 𝐦𝐲 𝐟𝐢𝐫𝐬𝐭 𝐟𝐮𝐥𝐥-𝐭𝐢𝐦𝐞 𝐫𝐨𝐥𝐞 𝐚𝐬 𝐚 𝐌𝐚𝐜𝐡𝐢𝐧𝐞 𝐋𝐞𝐚𝐫𝐧𝐢𝐧𝐠 𝐄𝐧𝐠𝐢𝐧𝐞𝐞𝐫, 𝐩𝐫𝐞𝐟𝐞𝐫𝐚𝐛𝐥𝐲 𝐬𝐭𝐚𝐫𝐭𝐢𝐧𝐠 𝐰𝐢𝐭𝐡 𝐚𝐧 𝐢𝐧𝐭𝐞𝐫𝐧𝐬𝐡𝐢𝐩. -->
   
 - 👉🏼 **Priority For Me:** I'm looking for a great work environment as a data scientist in a reputed organization with innovation and strong data science teams, where my skills and potential will be very helpful for the team, and where I can grow technically..
 
