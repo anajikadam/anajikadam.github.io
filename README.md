@@ -1,4 +1,4 @@
-# **Machine Learning Engineer** ⭐
+# **Machine Learning Engineer** 
 
 <!-- [**📌 Portfolio Projects**](https://anajikadam.github.io/portfolio/) -->
 <a href="https://anajikadam.github.io/portfolio/" target="_blank">📌 <b>Portfolio Projects</b></a> 
