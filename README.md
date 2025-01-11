@@ -4,7 +4,7 @@
 <a href="https://anajikadam.github.io/portfolio/" target="_blank">📌 <b>Portfolio Projects</b></a> 
 
 * **
-**Data Science certified professional with over 3+ years of rich and qualitative experience in developing and deploying ML models using Python programming. Currently, I am contributing my skills and knowledge as a Machine Learning Engineer in Pune.**
+**Data Science certified professional with over 4+ years of rich and qualitative experience in developing and deploying ML models using Python programming. Currently, I am contributing my skills and knowledge as a Machine Learning Engineer in Pune.**
 
 
 * **
